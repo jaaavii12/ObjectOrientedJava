@@ -1,0 +1,10 @@
+1.1 Report class
+ 5.00 /  5.00
+
+Detailed grades:
+ 0.75 /  0.75   1.1a Private attributes
+ 0.75 /  0.75   1.1b Public constructor and methods
+ 1.00 /  1.00   1.1c Attributes, constructor and toString()
+ 1.00 /  1.00   1.1d Difficulty level: 1 to 4
+ 0.75 /  0.75   1.1e Difficulty level: <= 0
+ 0.75 /  0.75   1.1f Difficulty level: >= 5

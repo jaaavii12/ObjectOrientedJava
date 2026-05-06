@@ -1,0 +1,7 @@
+Label;Scope;Max;Value
+1.3 SummitCollection class;Subtotal;5.00;5.00
+1.3a Private attributes;Element;0.50;0.50
+1.3b Public constructor and methods;Element;0.50;0.50
+1.3c SummitCollection-Summit association: type of summits attribute;Element;1.50;1.50
+1.3d SummitCollection-Summit association: adding summits;Element;1.25;1.25
+1.3e SummitCollection-Summit association: getting summits;Element;1.25;1.25

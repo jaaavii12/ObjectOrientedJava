@@ -1,0 +1,9 @@
+1.3 SummitCollection class
+ 5.00 /  5.00
+
+Detailed grades:
+ 0.50 /  0.50   1.3a Private attributes
+ 0.50 /  0.50   1.3b Public constructor and methods
+ 1.50 /  1.50   1.3c SummitCollection-Summit association: type of summits attribute
+ 1.25 /  1.25   1.3d SummitCollection-Summit association: adding summits
+ 1.25 /  1.25   1.3e SummitCollection-Summit association: getting summits
