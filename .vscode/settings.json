@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "java.project.sourcePaths": [
+        "M5\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\javie\\OneDrive\\Documentos\\MAE_ISAE_SUPAERO\\MAE_1\\OOSD\\workspace\\lib\\assertj-java-syntax-matchers-20221115.jar",
+        "c:\\Users\\javie\\OneDrive\\Documentos\\MAE_ISAE_SUPAERO\\MAE_1\\OOSD\\workspace\\lib\\junit-grader-20221117.jar",
+        "c:\\Users\\javie\\OneDrive\\Documentos\\MAE_ISAE_SUPAERO\\MAE_1\\OOSD\\workspace\\lib\\assertj-core-3.23.1.jar",
+        "c:\\Users\\javie\\OneDrive\\Documentos\\MAE_ISAE_SUPAERO\\MAE_1\\OOSD\\workspace\\lib\\byte-buddy-1.12.10.jar",
+        "c:\\Users\\javie\\OneDrive\\Documentos\\MAE_ISAE_SUPAERO\\MAE_1\\OOSD\\workspace\\lib\\system-lambda-1.2.1.jar",
+        "c:\\Users\\javie\\OneDrive\\Documentos\\MAE_ISAE_SUPAERO\\MAE_1\\OOSD\\workspace\\lib\\junit-platform-console-standalone-1.9.0.jar"
+    ],
+}

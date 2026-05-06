@@ -1,0 +1,25 @@
+Position p = new Position(3, 14);
+
+Reference                  Object
+-------------------        ------------------
+p ────────────────►        [ Position ]
+                           x = 3
+                           y = 14
+
+Position autreRef = p;
+
+Reference                  Object
+-------------------        ------------------
+p ───────┐                 
+         ▼                [ Position ]
+autreRef ┘                x = 3
+                          y = 14
+
+autreRef.moveTo(10, 42);
+
+Reference                  Object
+-------------------        ------------------
+p ───────┐                 
+         ▼                [ Position ]
+autreRef ┘                x = 10
+                          y = 42
